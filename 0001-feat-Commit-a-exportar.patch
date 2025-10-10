@@ -1,0 +1,20 @@
+From 306d03a557a751b652508b52ed11c541b2b24b23 Mon Sep 17 00:00:00 2001
+From: =?UTF-8?q?Beatriz=20Guti=C3=A9rrez=20Arazo?= <beagutara@alum.us.es>
+Date: Thu, 9 Oct 2025 00:13:37 +0200
+Subject: [PATCH] feat: Commit a exportar
+
+---
+ archivo_nuevo.txt | 1 +
+ 1 file changed, 1 insertion(+)
+ create mode 100644 archivo_nuevo.txt
+
+diff --git a/archivo_nuevo.txt b/archivo_nuevo.txt
+new file mode 100644
+index 0000000..41cd3f1
+--- /dev/null
++++ b/archivo_nuevo.txt
+@@ -0,0 +1 @@
++Este es un nuevo commit
+-- 
+2.43.0
+
